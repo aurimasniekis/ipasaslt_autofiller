@@ -5,11 +5,12 @@
 // @supportURL   https://github.com/aurimasniekis/ipasaslt_autofiller/issues
 // @updateURL    https://raw.githubusercontent.com/aurimasniekis/ipasaslt_autofiller/master/index.user.js
 // @downloadURL  https://raw.githubusercontent.com/aurimasniekis/ipasaslt_autofiller/master/index.user.js
-// @version      1.0.1
+// @version      1.0.2
 // @license      MIT
 // @description  Automatically fills your data into website, no more typing same numbers again
 // @author       Aurimas Niekis
-// @match        https://www.ipasas.lt/index.php*
+// @match        https://www.ipasas.lt/*
+// @match        https://ipasas.lt/*
 // @icon         https://www.google.com/s2/favicons?domain=ipasas.lt
 // @require      https://openuserjs.org/src/libs/sizzle/GM_config.js
 // @grant        GM_getValue
