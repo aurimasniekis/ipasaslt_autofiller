@@ -3,8 +3,8 @@
 // @namespace    https://github.com/aurimasniekis
 // @homepageURL  https://github.com/aurimasniekis/ipasaslt_autofiller
 // @supportURL   https://github.com/aurimasniekis/ipasaslt_autofiller/issues
-// @updateURL    https://raw.githubusercontent.com/aurimasniekis/ipasaslt_autofiller/master/index.js
-// @downloadURL  https://raw.githubusercontent.com/aurimasniekis/ipasaslt_autofiller/master/index.js
+// @updateURL    https://raw.githubusercontent.com/aurimasniekis/ipasaslt_autofiller/master/index.user.js
+// @downloadURL  https://raw.githubusercontent.com/aurimasniekis/ipasaslt_autofiller/master/index.user.js
 // @version      1.0.0
 // @license      MIT
 // @run-at       document-idle
