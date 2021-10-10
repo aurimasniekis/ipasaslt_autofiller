@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         iPasas.lt AutoFiller
-// @namespace    aurimasniekis
+// @namespace    https://github.com/aurimasniekis
 // @homepageURL  https://github.com/aurimasniekis/ipasaslt_autofiller
 // @supportURL   https://github.com/aurimasniekis/ipasaslt_autofiller/issues
 // @updateURL    https://raw.githubusercontent.com/aurimasniekis/ipasaslt_autofiller/master/index.js
 // @downloadURL  https://raw.githubusercontent.com/aurimasniekis/ipasaslt_autofiller/master/index.js
-// @version      0.1
+// @version      1.0.0
 // @license      MIT
 // @description  Automatically fills your data into website, no more typing same numbers again
-// @author       Aurimas Niekis <aurimas@niekis.lt>
+// @author       Aurimas Niekis
 // @match        https://www.ipasas.lt/index.php*
 // @icon         https://www.google.com/s2/favicons?domain=ipasas.lt
 // @require      https://openuserjs.org/src/libs/sizzle/GM_config.js
